@@ -8,3 +8,6 @@
 <h4 align="center">
 <img align="center" alt="Eduardo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Eduardo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></h4>
+
+
+  #projeto pomodoro
