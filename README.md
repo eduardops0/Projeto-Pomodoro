@@ -1,6 +1,6 @@
 <h2 align="center"> Projeto Pomodoro Criado com React/Typescript </h2>
 
-<p>Utilize npm install, para instalar todas as Dependências ⚙️ </p>
+<p align="center">Utilize npm install, para instalar todas as Dependências ⚙️ </p>
 
 
 <h3 align="center">Link de demonstração: https://project-d.vercel.app</h3>
